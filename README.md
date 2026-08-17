@@ -4,7 +4,7 @@ Privacy Policy
 
 Son güncelleme: 21 Temmuz 2026
 
-Bu gizlilik politikası, [Uygulama Adı] (“Uygulama”) tarafından toplanan, kullanılan ve korunan bilgileri açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş sayılırsınız.
+Bu gizlilik politikası, (“Uygulama”) tarafından toplanan, kullanılan ve korunan bilgileri açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş sayılırsınız.
 
 ## 1. Toplanan Bilgiler
 
@@ -76,7 +76,7 @@ E-posta: [destekwonexsoftware@gmail.com]
 
 Last Updated: July 21, 2026
 
-This Privacy Policy explains how [App Name] ("the App") collects, uses, and protects user information. By using the App, you agree to the terms described in this Privacy Policy.
+This Privacy Policy explains how ("the App") collects, uses, and protects user information. By using the App, you agree to the terms described in this Privacy Policy.
 
 ## 1. Information We Collect
 
